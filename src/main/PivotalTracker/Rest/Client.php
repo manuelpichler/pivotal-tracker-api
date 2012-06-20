@@ -4,7 +4,7 @@
  *
  * @version 1.0
  * @copyright Copyright (c) 2012 Manuel Pichler
- * @license GPL licenses.
+ * @license LGPL v3 license <http://www.gnu.org/licenses/lgpl
  */
 
 namespace PivotalTracker\Rest;
