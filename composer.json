@@ -1,0 +1,11 @@
+{
+    "version":      "1.0",
+    "name":         "PivotalTracker-API",
+    "description":  "Library that provides a PHP interface to interact with the PivotalTracker API V3",
+
+    "autoload": {
+        "psr-0": {
+            "PivotalTracker": "src/main/php/"
+        }
+    }
+}
